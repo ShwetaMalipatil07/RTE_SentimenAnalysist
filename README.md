@@ -1,1 +1,1 @@
-# RTE_SentimentAnalysist
+# RTE_SentimentAnalysis
